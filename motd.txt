@@ -1,6 +1,8 @@
 Map List:
 
+tdm_orange_minecraft_rc1
 cp_oranges_rc1
 cp_orange_x3
+cp_fourange
 cp_orange_z7
 cp_orangeharbor_b2_fix
