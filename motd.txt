@@ -1,16 +1,19 @@
 Map List:
 
 cp_orange_x_9
+cp_orange_project_v5a
 cp_orange_vx6_007
 cp_orange_transition_v2
-tdm_orange_minecraft_rc1
+cp_orange_z4_v3
 cp_oranges_rc1
 cp_orange_x3_blw
-cp_orange_x3_seasontowers_skyfix
 pl_orange_x_b2
+cp_orange_x4_tg_v4
 cp_orange_x3
+cp_orange_longway_hv1
 cp_fourange
 cp_orange_x5_bg_v29
 cp_orange_x_7
+cp_orange_50f_tower_v7
 cp_orange_z7
-cp_orangeharbor_b2_fix
+cp_orange_cross2_v2
